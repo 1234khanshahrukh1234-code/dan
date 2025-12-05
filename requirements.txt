@@ -7,3 +7,5 @@ pyotp
 streamlit-autorefresh
 nsepython
 smartapi-python
+logzero
+websocket-client
